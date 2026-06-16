@@ -1,0 +1,21 @@
+{
+  "total_fraud_cases_test_set": 4133,
+  "total_fraud_amount_test_set": 639134.67,
+  "model_threshold_used": 0.8,
+  "fraud_caught_count": 2505,
+  "fraud_caught_amount": 358986.54,
+  "fraud_missed_count": 1628,
+  "fraud_missed_amount": 280148.13,
+  "false_positives_count": 1623,
+  "false_positive_friction_cost": 8115.0,
+  "investigation_cost": 10320.0,
+  "net_savings_test_set": 340551.54,
+  "profit_optimal_threshold": 0.5,
+  "profit_optimal_net_savings": 430064.14,
+  "annualized_projection_LABELED_ASSUMPTION": 4086618.49,
+  "cost_assumptions": {
+    "cost_per_false_positive": 5.0,
+    "cost_per_investigation": 2.5,
+    "manual_catch_rate_baseline": 0.15
+  }
+}

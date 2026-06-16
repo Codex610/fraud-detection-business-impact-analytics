@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Raw Data (large, redistributable via Kaggle, not GitHub) ──
+data/raw/
+
+# ── Processed Data (regenerable by running notebooks) ─────────
+data/processed/
+
+# ── Trained Models (large binary files) ────────────────────────
+models/*.pkl
+
+# ── Virtual Environment ─────────────────────────────────────
+fraud_env/
+venv/
+.venv/
+
+# ── OS Files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

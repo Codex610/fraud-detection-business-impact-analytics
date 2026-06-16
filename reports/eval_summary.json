@@ -1,0 +1,12 @@
+{
+  "auc_roc": 0.9399,
+  "auc_pr": 0.635,
+  "optimal_threshold": 0.8,
+  "precision_at_optimal": 0.6068,
+  "recall_at_optimal": 0.6061,
+  "f1_at_optimal": 0.6065,
+  "true_positives": 2505,
+  "false_positives": 1623,
+  "false_negatives": 1628,
+  "true_negatives": 112352
+}
