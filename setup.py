@@ -7,7 +7,6 @@ dirs = [
     "data/raw",
     "data/processed",
     "notebooks",
-    "src",
     "reports",
 ]
 
@@ -19,11 +18,6 @@ files = [
     "notebooks/05_modeling.ipynb",
     "notebooks/06_evaluation.ipynb",
     "notebooks/07_shap_explainability.ipynb",
-    "src/data_loader.py",
-    "src/preprocessor.py",
-    "src/feature_engineer.py",
-    "src/evaluator.py",
-    "src/__init__.py",
     "reports/.gitkeep",
     "requirements.txt",
     "README.md",

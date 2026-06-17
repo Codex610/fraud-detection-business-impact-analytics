@@ -180,7 +180,7 @@ Python 3.11 · pandas · NumPy · scikit-learn · XGBoost · SHAP · imbalanced-
 ## How to Run
 
 ```bash
-git clone https://github.com/Codex610/fraud-detection.git
+git clone https://github.com/Codex610/fraud-detection-business-impact-analytics.git
 cd fraud-detection
 pip install -r requirements.txt
 # Download IEEE-CIS dataset into data/raw/
