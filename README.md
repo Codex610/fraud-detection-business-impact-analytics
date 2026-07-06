@@ -48,6 +48,7 @@ fraud-detection/
 ├── models/                   # Saved XGBoost + baseline models
 ├── reports/                  # All plots, CSVs, JSON summaries
 ├── requirements.txt
+├── Fraud_Detection_Case_Study.pdf
 └── README.md
 ```
 
